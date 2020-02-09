@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Feb 2020 19:42:11 at https://www.behance.net/gallery/90323761/Your-Harmony?tracking_source=search-all%7Cdashboard +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.behance.net/gallery/90323761/Your-Harmony?tracking_source=search-all%7Cdashboard -O1 "C:\My Web Sites\copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 43 links scanned, 42 files written (7018052 bytes overall) [4026170 bytes received at 223676 bytes/sec], 3631085 bytes transferred using HTTP compression in 9 files, ratio 16%, 4.7 requests per connection
+(No errors, 0 warnings, 0 messages)
